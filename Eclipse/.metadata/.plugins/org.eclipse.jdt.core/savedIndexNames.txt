@@ -1,0 +1,11 @@
+INDEX VERSION 1.131+D:\2019.2\PARADIGMAS\Eclipse\.metadata\.plugins\org.eclipse.jdt.core
+2356815219.index
+3873139765.index
+1631359853.index
+2735720879.index
+132400060.index
+328762958.index
+3370542092.index
+2934589649.index
+3788447698.index
+3561128275.index

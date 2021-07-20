@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.layout.AnchorPane?>
+
+<AnchorPane prefHeight="319.0" prefWidth="600.0" xmlns="http://javafx.com/javafx/11.0.1" xmlns:fx="http://javafx.com/fxml/1" fx:controller="gui.ConsultaController">
+   <children>
+      <Button fx:id="Sala1" layoutX="95.0" layoutY="32.0" mnemonicParsing="false" onAction="#onSala1Window" prefHeight="100.0" prefWidth="150.0" text="SALA 1" textAlignment="CENTER" />
+      <Button layoutX="95.0" layoutY="182.0" mnemonicParsing="false" prefHeight="100.0" prefWidth="150.0" text="SALA 3" />
+      <Button fx:id="Sala2" layoutX="369.0" layoutY="32.0" mnemonicParsing="false" onAction="#onSala2Window" prefHeight="100.0" prefWidth="150.0" text="SALA 2" />
+      <Button layoutX="369.0" layoutY="182.0" mnemonicParsing="false" prefHeight="100.0" prefWidth="150.0" text="SALA 4" />
+   </children>
+</AnchorPane>
