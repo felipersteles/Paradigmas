@@ -1,6 +1,8 @@
 
 # Paradigmas
 
-Conversor de um Automato Finito Deterministo para um Automato Finito Não Deterministico. Código com falhas.
+Códigos em Java.
+
+Desenvolvidos por Felipe Teles durante a disciplina de Paradigmas da programação na Universidade Federal Do Maranhão.
 
  
